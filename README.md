@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Raymond, I am a second year CMS student at UBC
+My name is Raymond, I am a second year CMS student at UBC.
 
 - 🔭 I’m currently working on: Nothing :)
 - 🌱 I’m currently learning: C#
