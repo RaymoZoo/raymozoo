@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Raymond, I am a second year CMS student at UBC. 
+My name is Raymond, I am a second year CMS student at UBC
 
 - 🔭 I’m currently working on: Nothing :)
 - 🌱 I’m currently learning: C#
@@ -8,7 +8,7 @@ My name is Raymond, I am a second year CMS student at UBC.
 - 💬 Ask me about: Life.
 - 📫 How to reach me: raymond.1zou@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can solve a Rubik's cube in 10 seconds.
+- ⚡ Fun fact: I can solve a Rubik's cube in 10 seconds
 
 <!--
 **RaymoZoo/raymozoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
